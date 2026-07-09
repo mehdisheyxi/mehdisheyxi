@@ -2,72 +2,52 @@
 
 # Hi 👋 I'm Mehdi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+Developer;Desktop+Application+Developer;API+%26+Automation;Currently+Building+Divar+Pro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;Desktop+Applications;API+Integration;Currently+Building+Divar+Pro"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mehdisheyxi&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=mehdisheyxi&style=for-the-badge&color=blue"/>
 
 </div>
 
----
+<table align="center">
+<tr>
 
-<div align="center">
+<td width="50%" valign="top">
 
 ### 🚀 Current Project
 
-# Divar Pro
+**Divar Pro**
 
-Python Desktop Application for Market Price Analysis
+Python Desktop Application
 
-</div>
+Market Price Analyzer
 
----
+</td>
 
-<div align="center">
+<td width="50%" align="center">
 
-## ⚒️ Tech Stack
+<img src="https://skillicons.dev/icons?i=python,git,linux,mysql,sqlite"/>
 
-<img src="https://skillicons.dev/icons?i=python,git,linux,mysql,sqlite&perline=5"/>
+</td>
 
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehdisheyxi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdisheyxi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+</tr>
+</table>
 
 ---
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mehdisheyxi&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehdisheyxi&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
----
-
 <div align="center">
 
 <a href="https://instagram.com/mehdisheyxi">
+
 <img src="https://skillicons.dev/icons?i=instagram"/>
+
 </a>
 
 </div>
