@@ -1,100 +1,143 @@
-<h1 align="center">Hi 👋, I'm Mehdi</h1>
+<div align="center">
 
-<h3 align="center">
-Python Developer | Desktop Applications | APIs | Automation
-</h3>
+# Hi 👋 I'm Mehdi
 
-<p align="center">
-Building useful software with Python.
-Currently working on <b>Divar Pro</b>.
-</p>
+### Python Developer • Desktop Applications • APIs • Automation
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mehdisheyxi&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=800&color=3BA4F7&center=true&vCenter=true&width=650&lines=Python+Developer;Desktop+Application+Developer;API+Integration;Currently+Building+Divar+Pro" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-- 💻 Python Developer
-- 🖥️ Interested in Desktop Application Development
-- ⚡ Working with APIs and Automation
-- 🌱 Currently learning Backend Development
-- 🚀 Current Project: **Divar Pro**
-- 🎯 Goal: Build useful software that solves real problems
+```python
+class Mehdi:
+
+    name = "Mehdi Sheyxi"
+
+    location = "Iran"
+
+    role = "Python Developer"
+
+    current_project = "Divar Pro"
+
+    interests = [
+        "Python",
+        "PyQt",
+        "Automation",
+        "API",
+        "Backend"
+    ]
+
+    learning = [
+        "FastAPI",
+        "Docker",
+        "PostgreSQL"
+    ]
+```
 
 ---
 
-## 🚀 Current Project
+# 🚀 Current Project
 
-### Divar Pro
+## Divar Pro
 
-A desktop application built with **Python** and **PyQt** for analyzing prices on Divar.
+Desktop application built with Python and PyQt.
 
-Features:
+### Features
 
 - Smart Search
+
 - Price Analysis
+
+- Lowest Price
+
+- Highest Price
+
 - Average Price
-- Lowest & Highest Price
-- Modern Desktop UI
+
 - API Integration
 
----
-
-## 🛠 Tech Stack
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-
-</p>
+- Modern UI
 
 ---
 
-## 📊 GitHub Stats
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehdisheyxi&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdisheyxi&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python,git,linux,mysql,sqlite"/>
 
 </p>
 
+### Currently Learning
+
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdisheyxi&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=fastapi,docker"/>
 
 </p>
 
 ---
 
-## 📫 Connect with Me
+# 📊 GitHub Statistics
 
-<p align="left">
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mehdisheyxi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdisheyxi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mehdisheyxi&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mehdisheyxi&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehdisheyxi&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
 
 <a href="https://instagram.com/mehdisheyxi">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+
+<img src="https://skillicons.dev/icons?i=instagram"/>
+
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile ⭐
+### ⭐ Building software that solves real problems.
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=mehdisheyxi&style=for-the-badge&color=blue"/>
+
+</div>
